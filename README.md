@@ -1,5 +1,5 @@
 ## Title
-E-commerce SPA project based React.js 
+E-commerce SPA project based React.js  
 
 ---
 glitch server : https://flannel-darkness.glitch.me/  
