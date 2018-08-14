@@ -1,6 +1,6 @@
 ## Title
-React 기반의 쇼핑몰 SPA project
----
+E-commerce SPA project based React.js 
+
 glitch server : https://flannel-darkness.glitch.me/  
 netlify : https://react-ecommerce.netlify.com/
 
@@ -10,7 +10,16 @@ password : (0ne letter!)
 ---
 ### Spec
 - React, Scss, BootStrap UI, axios, json-server
+- Use Context API for React state management instead of redux
 
+
+
+### component structure
+
+structure design for component reuse
+- contexts :  component to manage react state per page in one place 
+- pages:  component to represent only the component structure of the page 
+- containers: A component that collects the necessary components for each page
 ### git control
 
 1.  Create `feature` branch
