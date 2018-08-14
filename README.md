@@ -1,12 +1,15 @@
+## Title
+React 기반의 쇼핑몰 SPA project
+---
 glitch server : https://flannel-darkness.glitch.me/
-
 netlify : https://react-ecommerce.netlify.com/
 
 users : admin, user, user2
-
 password : (0ne letter!)
 
 ---
+### Spec
+- React, Scss, BootStrap UI, axios, json-server
 
 ### git control
 
@@ -41,14 +44,3 @@ git push origin --delete `feature`    (remote)
 git branch
 ```
 
----
-
-### dones
-
-2018-06-24 19:05 HM
-
-1.  부트스트립 설치
-2.  [feature-hm-navbar] 네비게이션 바 컴포넌트 코딩
-3.  [feature-hm-navbar] 메인 페이지 생성 및 네비게이션 컴포넌트 연결
-4.  [feature-hm-navbar] 네비게이션 관련 css 마이너 수정
-5.  [feature-hm-navbar] path '/' and '/login'
