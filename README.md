@@ -1,10 +1,10 @@
 ## Title
 React 기반의 쇼핑몰 SPA project
 ---
-glitch server : https://flannel-darkness.glitch.me/
+glitch server : https://flannel-darkness.glitch.me/  
 netlify : https://react-ecommerce.netlify.com/
 
-users : admin, user, user2
+users : admin, user, user2  
 password : (0ne letter!)
 
 ---
